@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HealthShareDavid
-- 👀 I’m interested in retaining my sanity
+- 👀 I’m interested in Health care innovation
 - 🌱 I’m currently learning lots of AWS, including orchestration
 - 💞️ I’m looking to collaborate
 
